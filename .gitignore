@@ -2,3 +2,5 @@ TokyoData
 AssetStudio*
 PullAssets.bat
 sactx*
+*.json
+*.py
